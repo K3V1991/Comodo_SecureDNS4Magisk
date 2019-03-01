@@ -1,4 +1,4 @@
-<img src="https://s16.directupload.net/images/190301/hg8oc7uv.jpg">
+<img src="https://s16.directupload.net/images/190301/zlahdpqh.png">
 
 ## This Module makes your Device to use Comodo Secure DNS Servers:
 * 8.26.56.26
